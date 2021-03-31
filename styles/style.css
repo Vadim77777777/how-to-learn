@@ -36,7 +36,6 @@
   justify-content: end;
   margin-left: 64px;
   width: 730px;
-  ;
 }
 
 h1 {
@@ -137,7 +136,7 @@ font-weight: bold;
   
 }
 
-.title {
+.title_digits {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -319,7 +318,7 @@ h5 {
   width: 877px;
   height: 877px;
   position: absolute;
-  top: 0px;;
+  top: 0px;
   right: -210px;
   z-index: 0;
 }
