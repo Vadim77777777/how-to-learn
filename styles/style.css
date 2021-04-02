@@ -36,6 +36,7 @@
   justify-content: end;
   margin-left: 64px;
   width: 730px;
+  z-index: 2;
 }
 
 h1 {
@@ -49,6 +50,7 @@ h1 {
   width: 388px;
   left: 64px;
   bottom: 30px;
+  z-index: 2;
 }
 
 p {
