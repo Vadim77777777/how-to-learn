@@ -110,6 +110,11 @@
  font-weight: normal;
 }
 
+.two-columns__paragraph {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .two-columns__span-accent {
  font-weight: bold;
 }
@@ -350,7 +355,7 @@
   color: white;
 }
 
-  .footer__social_icon {
+  .footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
